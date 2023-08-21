@@ -59,7 +59,7 @@
               <h5 class="card-title">Elementos generales</h5>
 
               <!-- General Form Elements -->
-              <form>
+              <form class="font-work">
                 <div class="row mb-3">
                   <label for="inputText" class="col-sm-2 col-form-label">Texto</label>
                   <div class="col-sm-10">

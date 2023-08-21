@@ -1002,3 +1002,15 @@ p {
 .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
   background-color: rgb(215, 255, 194);
 }
+
+/*--------------------------------------------------------------
+# Fonts
+--------------------------------------------------------------*/
+
+.font-work{
+  font-family: 'Work Sans', sans-serif;
+}
+
+.font-calibri{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
