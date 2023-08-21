@@ -60,7 +60,7 @@
             <div class="card-body">
               <h4 class="card-title fs-4 fw-light secondary-color">1. Delimitación de la Actividad de Aprendizaje</h4>
               <p class="secondary-color">En este primer apartado se delimitará la Actividad de Aprendizaje a ingresar, seleccionando la Competencia para la que fue diseñada, así como el Resultado de Aprendizaje que abordará y el tipo de Actividad dentro de la Guía de Aprendizaje.</p>
-              <form class="row g-4">
+              <form class="row g-4 font-work">
                 <div class="col-8">
                   <label for="programa-formacion" class="form-label">Programa de Formación</label>
                   <input type="text" class="form-control" id="programa-formacion">
